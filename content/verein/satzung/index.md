@@ -58,7 +58,7 @@ Der Verein ist Mitglied des
   3. Ehrenmitglieder
 2. Zu den ordentlichen Mitgliedern gehören due am Turniertanztraining teilnehmenden Mitglieder (Turnierpaare) sowie die Mitglieder der Formation.
 3. Die fördernden Mitglieder gehören zum Freundeskreis.
-4. Mitglied des Vereins können natürliche und juristische Personen werden.
+4. Mitglied kann jede natürliche Person werden. Juristische Personen können fördernde Mitglieder werden.
 5. Personen, die sich besondere Verdienste um den Verein erworben haben, können auf Vorschlag eines Vereinsmitglieds von der Mitgliederversammlung mit drei Virtel Stimmenmehrheit zu Ehrenmitgliedern ernannt werden.
 
 ## § 7 Aufnahme
