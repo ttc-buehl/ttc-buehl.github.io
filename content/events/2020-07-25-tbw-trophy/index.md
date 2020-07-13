@@ -3,7 +3,7 @@ title: "TBW Trophy 2021 in Bühl"
 eventDate: "2021-07-17 09:00:00"
 location: "Bürgerhaus Neuer Markt"
 url: "/trophy"
-date: 2019-08-26
+date: 2020-07-13
 countdown: "2021-07-17T09:00:00"
 ---
 {{< panel >}}
@@ -19,7 +19,7 @@ Der Countdown läuft, für den 17. und 18. Juli 2021!
 Der TurnierTanzClub Bühl bringt das erste Tanzturnier in den Kategorien Standard und den lateinamerikanischen Tänzen in das Bürgerhaus Neuer Markt nach Bühl!
 Das Finale der TBW Trophy in der Hauptgruppe I/II wird 2021 vom TTC Bühl ausgerichtet.
 
-## <span class="la la-lg la-calendar"></span> 17. und 18. Juli 2020
+## <span class="la la-lg la-calendar"></span> 17. und 18. Juli 2021
 ## <span class="la la-lg la-clock-o"></span> circa 09:00 bis 18:00 Uhr
 ## <span class="la la-lg la-map-marker"></span> Bürgerhaus Neuer Markt
 
