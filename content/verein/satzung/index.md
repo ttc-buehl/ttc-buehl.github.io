@@ -25,14 +25,14 @@ in der Fassung vom 21.07.2017
 
 ## § 1 Name, Sitz
 
-1. Der Verein führt den Namen "Turniertanzclub Bühl" (TTC Bühl).
+1. Der Verein führt den Namen "TurnierTanzClub Bühl" (TTC Bühl).
 2. Er hat seinen Sitz in Bühl.
-3. Der Verein soll in das Vereisnregister des Amtsgerichts Mannheim eingetragen werden und trägt dann den Namen "TurnierTanzClub Bühl e. V." (TTC Bühl e. V.).
+3. Der Verein soll in das Vereinsregister des Amtsgerichts Mannheim eingetragen werden und trägt dann den Namen "TurnierTanzClub Bühl e. V." (TTC Bühl e. V.).
 4. Die Farben des Vereins sind rot-weiß.
 
 ## § 2 Geschäftsjahr
 
-Das Geschäftsjahr entspricht dem Kalenderjahr
+Das Geschäftsjahr entspricht dem Kalenderjahr.
 
 ## § 3 Zweck, Gemeinnützigkeit
 
