@@ -36,9 +36,9 @@ Das Geschäftsjahr entspricht dem Kalenderjahr.
 
 ## § 3 Zweck, Gemeinnützigkeit
 
-1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne das Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Der Zweck des Vereins ist die Förderung des Tanzsports. Der Satzungstweck wird verwirklicht insbesondere durch die Förderung und Pflege des Tanzsports sowie des Turniertanzes nach sportlichen Regeln. Dabei ist Nautralität und Toleranz in allen politischen, religiösen und rassischen Fragen zu wahren.
-2. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für satzunggemäße Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
-3. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergürung begünstigt werden.
+1. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne das Abschnitts "Steuerbegünstigte Zwecke" der Abgabenordnung. Der Zweck des Vereins ist die Förderung des Tanzsports. Der Satzungszweck wird verwirklicht insbesondere durch die Förderung und Pflege des Tanzsports sowie des Turniertanzes nach sportlichen Regeln. Dabei ist Neutralität und Toleranz in allen politischen, religiösen und rassischen Fragen zu wahren.
+2. Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke. Mittel des Vereins dürfen nur für satzungsgemäße Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
+3. Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütung begünstigt werden.
 
 ## § 4 Amateurgedanken
 
