@@ -1,15 +1,12 @@
 ---
-title: "TBW Trophy 2021 in Bühl"
+title: "Abgesagt: TBW Trophy 2021 in Bühl"
 eventDate: "2021-07-17 09:00:00"
 location: "Bürgerhaus Neuer Markt"
 url: "/trophy"
 date: 2020-07-13
-countdown: "2021-07-17T09:00:00"
 ---
 {{< panel >}}
-Aufgrund der Corona-Pandemie mussten wir die TBW-Trophy 2020 leider absagen.
-Wir freuen uns aber mitteilen zu können, dass der Termin für das nächste Jahr steht.
-Der Countdown läuft, für den 17. und 18. Juli 2021!
+Aufgrund der Corona-Pandemie mussten wir die TBW-Trophy 2020 / 2021 leider absagen.
 {{< /panel >}}
 
 # TBW Trophy 2021 HGR I/II
