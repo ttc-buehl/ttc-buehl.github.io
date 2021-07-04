@@ -1,11 +1,3 @@
-{{ $fb := (getJSON "https://graph.facebook.com/v3.3/2304735463085015_" (index .Params 0) "?access_token=EAAIn1lDcKxkBAHNLaZCmsbZBZAAWhEt6SjMLONSZB99MmVHA63oGh7uoQoTjH02Pfybq9V3QEbUSmARKuMJapNM681rIhtg60xJLCpts7EpnKqFbFghNmIgYVr7BZBKGZCitWWgJC5cnZCwLvneCfshzNZB1gXBZAaQmFJcVns51cNgZDZD&debug=all&fields=full_picture,message,created_time,permalink_url&format=json") }}
 <article class="article-card">
-    {{ if $fb.full_picture }}
-    <a href="{{ $fb.permalink_url }}"><img class="card" src="{{ $fb.full_picture }}"></a>
-    {{ end }}
-    <div class="summary">
-        <small>{{ dateFormat "02.01.2006" $fb.created_time }}</small>
-        <p><a class="neutral" href="{{ $fb.permalink_url }}">{{ replace (truncate 250 $fb.message) "\n" "<br>" | safeHTML }}</a></p>
-        <span class="la la-lg la-facebook"></span>
-    </div>
+    
 </article>
