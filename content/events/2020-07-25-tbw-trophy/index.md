@@ -9,7 +9,7 @@ date: 2020-07-13
 Aufgrund der Corona-Pandemie mussten wir die TBW-Trophy 2020 / 2021 leider absagen.
 {{< /panel >}}
 
-# TBW Trophy 2021 HGR I/II
+# Abgesagt: TBW Trophy 2021 HGR I/II
 
 {{< row >}}
 {{< column-half >}}
