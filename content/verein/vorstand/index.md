@@ -4,17 +4,17 @@ title: "Vorstand"
 # Vorstand
 
 ## 1. Vorsitzende
-**Frau Gabi Braun**  
-[vorstand@ttc-buehl.de](mailto:vorstand@ttc-buehl.de)
+**Frau Gabi Braun**
+[vorstand@ttcbuehl.de](mailto:vorstand@ttcbuehl.de)
 
 ## 2. Vorsitzender
-**Herr Felix Kamm**  
-[vorstand@ttc-buehl.de](mailto:vorstand@ttc-buehl.de)
+**Herr Felix Kamm**
+[vorstand@ttcbuehl.de](mailto:vorstand@ttcbuehl.de)
 
 ## Kassenwartin
-**Frau Melanie Lorenz**  
-[kassenwart@ttc-buehl.de](mailto:kassenwart@ttc-buehl.de)
+**Frau Melanie Lorenz**
+[vorstand@ttcbuehl.de](mailto:vorstand@ttcbuehl.de)
 
 # Schriftführer
-**Herr Patrick Lutz**  
-[schriftführer@ttc-buehl.de](mailto:schriftführer@ttc-buehl.de)
+**Herr Patrick Lutz**
+[vorstand@ttcbuehl.de](mailto:vorstand@ttcbuehl.de)
