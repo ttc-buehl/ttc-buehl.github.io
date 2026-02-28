@@ -8,13 +8,9 @@ title: "Vorstand"
 [vorstand@ttcbuehl.de](mailto:vorstand@ttcbuehl.de)
 
 ## 2. Vorsitzender
-**Herr Felix Kamm**
+**Herr Patrick Lutz**
 [vorstand@ttcbuehl.de](mailto:vorstand@ttcbuehl.de)
 
-## Kassenwartin
-**Frau Melanie Lorenz**
-[vorstand@ttcbuehl.de](mailto:vorstand@ttcbuehl.de)
-
-# Schriftführer
+## Kassenwart
 **Herr Patrick Lutz**
 [vorstand@ttcbuehl.de](mailto:vorstand@ttcbuehl.de)
