@@ -79,10 +79,10 @@ Anträge auf AUfnahme als ordentliches oder förderndes Mitglied sind in schrift
 
 ## § 10 Beiträge und Pflichten der Mitglieder
 
-1. Jedes Mitglied entrichtet eine Aufnahmegebühr. Diese beträgt €&nbsp;15,00.
+1. Jedes Mitglied entrichtet eine Aufnahmegebühr. Diese beträgt einen Monatsbeitrag.
 2. Jedes Mitglied ist zur Beitragszahlung verpflichtet. Die Beiträge sind im Voraus zum 1. eines jeden Monats fällig.
 3. Die Beitragsentrichtung erfolgt durch das SEPA-Basislastschriftverfahren.
-4. Der Monatsbeitrag beträgt für ordentliche Mitglieder €&nbsp;15,00.
+4. Der Monatsbeitrag beträgt für ordentliche Mitglieder €&nbsp;25,00. Für Mitglieder mit Beitrittsdatum vor dem 01.01.2025 beträgt der Monatsbeitrag €&nbsp;15,00.
 5. Der Jahresbeitrag beträgt für fördernde Mitglieder (Freundeskreis) mindestens €&nbsp;30,00.
 6. Ehrenmitglieder entrichten keinen Beitrag.
 7. Der Vorstand kann in besonderen Fällen Mitglieder vorübergehend von der Beitragsentrichtung befreien. Die Befreiung von der Beitragsentrichtung ist schriftlich zu beantragen.
