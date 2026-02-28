@@ -21,7 +21,7 @@ title: Satzung
 </style>
 
 # Satzung des TurnierTanzClub Bühl e.V.
-in der Fassung vom 21.07.2017
+in der Fassung vom 28.02.2026
 
 ## § 1 Name, Sitz
 
